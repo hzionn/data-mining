@@ -1,3 +1,7 @@
-# data-mining
+# Data Mining
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hzionn)](https://github.com/hzionn/github-readme-stats)
+> Course's projects and assignments.
+
+NOT all data included.
+
+Most files or folders are large datasets, they are excluded.
